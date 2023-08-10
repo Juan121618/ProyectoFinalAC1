@@ -1,7 +1,9 @@
 # Tarea Facturación JS
 
 ### Colaboradores:
-- [Juan Caycho](https://github.com/JuanCaychoPaucar)
-- [Alessandro Giuffra](https://github.com/Agiuffra)
-- [Jesús Luján](https://github.com/jesuslujancardenas2412)
-- [Anthony Dueñas](https://github.com/AnthonyDval)
+- [Edison Chicango](https://github.com/EdXavier92Gordo)
+- [Erick Rosero](https://github.com/GibsonErick)
+- [Luis Tipan](https://github.com/LuisT26)
+- [Juan Valdez](https://github.com/Juan121618)
+- [Lilybeth Vallejo](https://github.com/LilyVZ)
+
